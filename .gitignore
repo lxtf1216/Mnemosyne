@@ -1,0 +1,42 @@
+# Environment
+.env
+
+# Claude Code
+.claude/*
+
+# Embedding models (user downloads from HuggingFace)
+embedding_model/
+
+# Processed PDFs
+inbox/*
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Logs
+*.log
+inbox/errors.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+

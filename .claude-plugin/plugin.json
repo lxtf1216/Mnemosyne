@@ -1,0 +1,19 @@
+{
+  "name": "mnemosyne",
+  "version": "0.1.0",
+  "description": "Research assistant connecting local Elasticsearch for paper retrieval, knowledge accumulation, and idea incubation",
+  "author": {
+    "name": "Mnemosyne Team"
+  },
+  "homepage": "https://github.com/anthropics/mnemosyne",
+  "repository": "https://github.com/anthropics/mnemosyne",
+  "license": "MIT",
+  "commands": [
+    "./commands/status.md",
+    "./commands/search.md",
+    "./commands/add-paper.md",
+    "./commands/add-insight.md",
+    "./commands/brainstorm.md",
+    "./commands/reembed.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mnemosyne",
+  "version": "0.1.0",
+  "description": "Mnemosyne - AI Research Assistant Claude Code Plugin",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "claude --plugin-dir .",
+    "build": "tsc",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "claude": ">=0.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}
