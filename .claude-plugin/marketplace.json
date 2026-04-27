@@ -4,15 +4,34 @@
     "name": "lxtf1216",
     "email": "2129609136@qq.com"
   },
+  "metadata": {
+    "description": "科研助手插件，连接本地 Elasticsearch，支持论文检索、knowledge积累和 idea 孵化",
+    "version": "0.1.0"
+  },
   "plugins": [
     {
       "name": "mnemosyne",
-      "source": "https://github.com/lxtf1216/Mnemosyne.git",
+      "source": "./",
       "description": "科研助手插件，连接本地 Elasticsearch，支持论文检索、knowledge积累和 idea 孵化",
       "version": "0.1.0",
       "author": {
-        "name": "lxtf1216"
-      }
+        "name": "lxtf1216",
+        "email": "2129609136@qq.com"
+      },
+      "homepage": "https://github.com/lxtf1216/Mnemosyne",
+      "repository": "https://github.com/lxtf1216/Mnemosyne",
+      "license": "MIT",
+      "keywords": [
+        "research",
+        "papers",
+        "elasticsearch",
+        "knowledge-base",
+        "semantic-search",
+        "arxiv",
+        "insights",
+        "idea-incubation"
+      ],
+      "category": "research"
     }
   ]
 }
