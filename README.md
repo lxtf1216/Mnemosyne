@@ -1,6 +1,6 @@
 # Mnemosyne
 
-> 记忆女神 - AI Research Assistant Claude Code Plugin
+> AI Research Assistant Claude Code Plugin
 
 A research assistant that connects to a local Elasticsearch instance to help researchers with literature retrieval, knowledge accumulation, and idea incubation.
 
